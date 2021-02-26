@@ -1,0 +1,20 @@
+body{
+background-color:white;
+color:black;
+font-family:cursive;
+}
+div.a{
+background-color:darkred;
+height:70px;
+width:250px;
+color:white;
+font-family:cursive;
+text-align:center;
+font-size:35px;
+text-shadow:5px 2px 4px blue;
+border-radius:20px 20px 20px 20px;
+transform:skew(30deg);
+}
+.anniv{
+    margin-top: 7%;
+}
